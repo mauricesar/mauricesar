@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mauri
+# 👋 Hey there! I'm Mauricésar
 
 🎓 Instructor | 👨‍💻 Software Developer | 🔬 Computer Vision Researcher  
 💡 Passionate about AI, education, and transforming ideas into real-world solutions.
@@ -35,18 +35,5 @@
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricesar&layout=compact&theme=tokyonight"/>
 </div>
-
----
-
-## 📬 Contact
-📩 Email: **mauricesarf@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/mauricesar/ 
-
----
-
-## 🎯 Fun Facts
-- 📚 I love teaching
-- 🎮 Gamer in my free time
-- 🎵 Music is always present when I code
 
 ---
