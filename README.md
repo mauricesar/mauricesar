@@ -40,8 +40,8 @@
 ---
 
 ## 📬 Contact
-📩 Email: **your.email@email.com**  
-🔗 LinkedIn: https://linkedin.com/in/YOUR-PROFILE  
+📩 Email: **mauricesarf@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/mauricesar/ 
 
 ---
 
