@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey there! I'm Mauri
 
-<!--
-**mauricesar/mauricesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Instructor | 👨‍💻 Software Developer | 🔬 Computer Vision Researcher  
+💡 Passionate about AI, education, and transforming ideas into real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 👨‍🏫 IT Instructor
+- 🔍 Researcher focusing on pulmonary nodule detection using Deep Learning
+- 🧠 Working with YOLOv8, Faster R-CNN, DETR
+- 🛠️ Experience with Python, Flask, Django, SQL
+- ⚡ I believe in the power of education and technology to change lives
+
+---
+
+## 🔧 Tech Stack
+
+| Languages | Frameworks / Libs | Tools |
+|-----------|------------------|-------|
+| Python, JavaScript, SQL | Flask, Django, React | Git, Linux, Docker |
+
+---
+
+## 🧠 Skills
+- Computer Vision
+- Deep Learning
+- Web Development
+- Database Modeling
+- Active Learning Methodologies
+
+---
+
+## 📈 GitHub Stats
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mauricesar&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricesar&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📬 Contact
+📩 Email: **your.email@email.com**  
+🔗 LinkedIn: https://linkedin.com/in/YOUR-PROFILE  
+
+---
+
+## 🎯 Fun Facts
+- 📚 I love teaching
+- 🎮 Gamer in my free time
+- 🎵 Music is always present when I code
+
+---
