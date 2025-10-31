@@ -33,7 +33,6 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mauricesar&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricesar&layout=compact&theme=tokyonight"/>
 </div>
 
