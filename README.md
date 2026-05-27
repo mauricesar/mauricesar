@@ -1,6 +1,5 @@
 # Mauricésar Barbosa
 
-Computer Scientist, CTO at Carper Solutions, Senior Developer at Ativos Digitais, and IT Instructor at SENAC Alagoas.
 
 I work at the intersection of software engineering, artificial intelligence, and technical education, designing scalable digital solutions while researching computer vision applications for healthcare.
 
