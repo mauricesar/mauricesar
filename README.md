@@ -1,7 +1,5 @@
 # Mauricésar Barbosa
 
-CTO at Carper Solutions • Senior Developer at Ativos Digitais • IT Instructor • Computer Vision Researcher
-
 ---
 
 I design and engineer scalable software solutions at the intersection of software engineering, artificial intelligence, and digital product architecture.
