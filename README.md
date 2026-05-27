@@ -1,7 +1,5 @@
 # Mauricésar Barbosa
 
----
-
 I design and engineer scalable software solutions at the intersection of software engineering, artificial intelligence, and digital product architecture.
 
 My work is centered on building robust applications, intelligent systems, and AI-powered digital products, combining backend engineering, distributed architectures, and LLM-based agents powered by engines such as Gemini and ChatGPT.
@@ -87,12 +85,3 @@ Currently focused on:
 - Developing LLM-powered intelligent applications
 - Advancing applied computer vision research at PPGI/UFAL
 - Training future software engineers at SENAC
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mauricesar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricesar&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
